@@ -26,7 +26,6 @@
         <thead class="table-dark">
             <tr>
                 <th>ID</th><th>Name</th><th>Email</th><th>Phone</th><th>Address</th><th>City</th>
-
                 <th>State</th><th>Country</th><th>Zipcode</th><th>Role</th><th>Gender</th>
                 <th>DOB</th><th>Created</th><th>Actions</th>
             </tr>
