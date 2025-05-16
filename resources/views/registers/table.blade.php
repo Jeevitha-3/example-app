@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Registers Table</title>
+    <title>Registers Tables</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 </head>
 <body>
 <div class="container mt-5">
-    <h2 class="mb-4">Registers Table</h2>
+    <h2 class="mb-4">Registers Tables</h2>
 
     <form method="GET" action="{{ route('registers.index') }}" class="row g-3 mb-4">
         <div class="col-auto">
